@@ -1,0 +1,293 @@
+target,images,lat,lon,admin1,admin2
+Cushing_OK,708,36.030123,-96.753332,Cushing,OK
+Skikda_Algeria,567,36.862756,6.965184,Skikda,Algeria
+Freeport_Bahamas,538,26.516158,-78.759194,Freeport,Bahamas
+Ras_Lanuf_Libya,514,30.472767,18.57378,Ras Lanuf,Libya
+St_Eustatius_Caribbean_Netherlands,511,17.496017,-62.997333,St Eustatius Caribbean,Netherlands
+Singapore,480,1.260756,103.885993,Singapore,Singapore
+Turpan_China,465,43.08362,90.409898,Turpan,China
+Yonbu_Saudi_Arabia,459,23.973352,38.252084,Yonbu Saudi,Arabia
+Lanzhou_China,458,36.115104,103.63524,Lanzhou,China
+Manangareza_Madagascar,451,-18.168374,49.393544,Manangareza,Madagascar
+Karamay_China,441,45.5734,84.995579,Karamay,China
+Marisa_Libya,439,32.041997,23.977474,Marisa,Libya
+Zawiya_Libya,426,32.782238,12.698416,Zawiya,Libya
+Castries_St_Lucia,423,13.983473,-61.020872,Castries St,Lucia
+Daqing_China,402,46.323368,124.741102,Daqing,China
+Mombassa_Kenya,397,-4.042567,39.642844,Mombassa,Kenya
+Dalian_China,388,38.980128,121.868549,Dalian,China
+Qingdao_China,380,36.057824,120.219739,Qingdao,China
+Sarakhs_Iran,379,36.469826,60.845928,Sarakhs,Iran
+Uruma_Japan,372,26.349379,127.961186,Uruma,Japan
+Malongo_Angola,371,-5.400736,12.212082,Malongo,Angola
+Dubai_UAE,368,24.967792,55.049313,Dubai,UAE
+Mina_al_Fahl_Oman,362,23.622374,58.514455,Mina al Fahl,Oman
+Sidi_Kerir_Egypt,355,31.054632,29.66952,Sidi Kerir,Egypt
+Dushanzi_China,348,44.350424,84.813302,Dushanzi,China
+Tema_Ghana,348,5.736797,0.007016,Tema,Ghana
+Esmeraldas_Ecuador,348,0.938954,-79.691186,Esmeraldas,Ecuador
+Puerto_la_Cruz_Venezuela,346,10.221331,-64.619902,Puerto la Cruz,Venezuela
+Sangachal_Azerbaijan,331,40.184661,49.480031,Sangachal,Azerbaijan
+St_Croix_Virgin_Islands,331,17.704258,-64.753207,St Croix Virgin,Islands
+Sarir_Libya,315,27.655049,22.494969,Sarir,Libya
+Supsa_Georgia,314,42.011201,41.763794,Supsa,Georgia
+Zhanjiang_China,308,21.154153,110.401163,Zhanjiang,China
+Novorossiysk Russia,307,44.748036,37.902985,Novorossiysk,Russia
+Mellitah_Libya,303,32.853706,12.238211,Mellitah,Libya
+Houston_TX,302,29.791867,-95.084028,Houston,TX
+Rabigh_Saudi_Arabia,300,22.717271,39.017128,Rabigh Saudi,Arabia
+Constanta_Port_Romania,292,44.129383,28.646271,Constanta Port,Romania
+Khark_Island_Iran,286,29.229537,50.314967,Khark Island,Iran
+Luanda_Angola,281,-8.750827,13.321708,Luanda,Angola
+Brownsville_TX,276,25.957934,-97.383014,Brownsville,TX
+Cartagena_Colombia,275,10.44025,-75.542856,Cartagena,Colombia
+Victoria_Seychelles,272,-4.629577,55.463856,Victoria,Seychelles
+Ras_Tanura_Saudi_Arabia,271,26.658965,50.148072,Ras Tanura Saudi,Arabia
+Agat_Guam,270,13.417492,144.683003,Agat,Guam
+Zhousan_China,263,29.971475,122.156332,Zhousan,China
+Abqaiq_Saudi_Arabia,260,25.931914,49.680098,Abqaiq Saudi,Arabia
+Wakayama_Japan,257,34.171652,135.190719,Wakayama,Japan
+Rafsanjan_Iran,255,30.3716,55.854658,Rafsanjan,Iran
+Jubail_Saudi_Arabia,237,27.057426,49.60502,Jubail Saudi,Arabia
+Mangalore_India,234,12.915228,74.812474,Mangalore,India
+Tianjin_China,229,39.06263,117.763064,Tianjin,China
+Covenas_Colombia,229,9.405002,-75.694401,Covenas,Colombia
+DeKastri_Russia,228,51.48201,140.870652,DeKastri,Russia
+Jamnagar_India,228,22.451091,69.847509,Jamnagar,India
+Caleta_Olivia_Argentina,228,-46.4303,-67.523132,Caleta Olivia,Argentina
+Abidjan_Ivory_Coast,224,5.282115,-3.994381,Abidjan Ivory,Coast
+Gamba_Gabon,224,-2.782221,10.028041,Gamba,Gabon
+Kribi_Cameroon,223,2.9,9.8,Kribi,Cameroon
+Caleta_Cordova_Argentina,222,-45.756103,-67.388175,Caleta Cordova,Argentina
+Trieste_Italy,222,45.607614,13.814974,Trieste,Italy
+Puerto_Jose_Venezuela,221,10.078574,-64.86525,Puerto Jose,Venezuela
+Pengzhou_China,220,31.077833,103.904656,Pengzhou,China
+Kozmino_Bay_Russia,217,42.732158,133.045744,Kozmino Bay,Russia
+Dar_es_Salaam_Tanzania,214,-6.844017,39.297458,Dar es Salaam,Tanzania
+Kagoshima_Japan,210,31.388,130.548812,Kagoshima,Japan
+Tegaldowo_Java_Indonesia,204,-6.872116,109.644607,Tegaldowo Java,Indonesia
+Rotterdam_Netherlands,203,51.971108,3.98242,Rotterdam,Netherlands
+Ulsan_Korea,202,35.565766,129.389991,Ulsan,Korea
+Milford_Haven_Wales,198,51.769632,-5.0113,Milford Haven,Wales
+Shiraz_Iran,196,29.755283,52.674886,Shiraz,Iran
+Plock_Poland,195,52.530493,19.835751,Plock,Poland
+Le_Havre_France,194,49.489019,0.279712,Le Havre,France
+Hassi_Messoaud_Algeria,194,31.662705,6.026868,Hassi Messoaud,Algeria
+Yang_Pu_China,194,19.78131,109.181323,Yang Pu,China
+Tiszaujvaros_Hungary,193,47.899336,21.032098,Tiszaujvaros,Hungary
+Zhenhai_China,193,30.00533,121.64786,Zhenhai,China
+Amuay_Venezuela,192,11.739006,-70.195204,Amuay,Venezuela
+Mutsu_Ogawara_Japan,190,40.974965,141.288111,Mutsu Ogawara,Japan
+Yuzhny_Ukraine,188,46.618014,31.049435,Yuzhny,Ukraine
+Doba_Chad,185,8.588448,16.830446,Doba,Chad
+Tomakomai_Japan,184,42.646927,141.816079,Tomakomai,Japan
+Bandar_Abbas_Iran,184,27.195312,56.079706,Bandar Abbas,Iran
+Vacherie_LA,183,30.023137,-90.459494,Vacherie,LA
+Matanzas_Cuba,182,23.06769,-81.542046,Matanzas,Cuba
+Hardisty_Canada,180,52.638102,-111.278567,Hardisty,Canada
+Baiji_Iraq,177,35.005311,43.493541,Baiji,Iraq
+Agioi_Theodoroi_Greece,175,37.9269353,23.07450771,Agioi Theodoroi,Greece
+Penuelas_Puerto_Rico,174,17.994918,-66.743128,Penuelas Puerto,Rico
+Paradip_Port_India,172,20.312835,86.696132,Paradip Port,India
+Waha_Libya,171,28.903102,10.048467,Waha,Libya
+Tuapse_Russia,169,44.102977,39.100486,Tuapse,Russia
+Corpus_Christi_TX_Oil_Terminal,165,27.847414,-97.553042,Corpus Christi TX Oil,Terminal
+Primorsk_Russia,165,60.3385,28.7385,Primorsk,Russia
+Priolo_Gargallo_Italy,163,37.2408105,15.1969675,Priolo Gargallo,Italy
+Kaduna_Nigeria,163,10.426149,7.490285,Kaduna,Nigeria
+Laizhou_China,161,37.415529,119.979739,Laizhou,China
+Wilhelmshaven_Germany,158,53.5448,8.122365,Wilhelmshaven,Germany
+Pavlodar_Kazakhstan,157,52.365032,76.915066,Pavlodar,Kazakhstan
+Tabriz_Iran,157,38.056183,46.178646,Tabriz,Iran
+Ajdabiya_Libya,157,30.911563,20.073307,Ajdabiya,Libya
+Shibushi_Japan,156,31.366962,131.025984,Shibushi,Japan
+Milnerton_Africa,151,-33.83338,18.545784,Milnerton,Africa
+Turkmenbashi_Turkmenistan,151,40.010412,52.96331,Turkmenbashi,Turkmenistan
+Coatzacoalcos_Mexico,151,18.115438,-94.383301,Coatzacoalcos,Mexico
+Wattala_Sri_Lanka,149,7.03768,79.86,Wattala Sri,Lanka
+Daura_Iraq,148,33.270626,44.437692,Daura,Iraq
+River_Rouge_MI,146,42.286181,-83.132112,River Rouge,MI
+Bandar_Iran,146,30.437114,49.088969,Bandar,Iran
+Kyaukpyu_Myanmar,146,19.362054,93.673369,Kyaukpyu,Myanmar
+Beilun_China,145,30.142648,121.954395,Beilun,China
+Port_Arthur_TX,144,29.872204,-93.976147,Port Arthur,TX
+Arak_Iran,143,34.007547,49.472499,Arak,Iran
+San_Nicolas_Aruba,142,12.446445,-69.908903,San Nicolas,Aruba
+Willemstad_Antilles,141,12.132995,-68.929465,Willemstad,Antilles
+Banias_Syria,140,35.218334,35.965606,Banias,Syria
+San_Fernando_Trinidad_and_Tobago,139,10.330531,-61.44237,San Fernando Trinidad and,Tobago
+Tumaco_Colombia,138,1.80505,-78.778498,Tumaco,Colombia
+Nelahozeves_Czech_Republic,137,50.267735,14.319339,Nelahozeves Czech,Republic
+Paraiso_Mexico,136,18.42637,-93.194564,Paraiso,Mexico
+Esfahan_Iran,134,32.784373,51.504205,Esfahan,Iran
+Muskiz_Spain,129,43.34451,-3.076998,Muskiz,Spain
+Penajam_Indonesia,129,-1.329077,116.686188,Penajam,Indonesia
+Long_Beach_CA,128,33.761376,-118.191332,Long Beach,CA
+Nuwaidrat_Bahrain,127,26.128381,50.611405,Nuwaidrat,Bahrain
+Hamburg_Germany,124,53.510631,9.959503,Hamburg,Germany
+Fujairah_UAE,121,25.198295,56.354174,Fujairah,UAE
+Lanshan_China,119,35.18319,119.377511,Lanshan,China
+Homs_Syria,119,34.717148,36.638481,Homs,Syria
+Nueva_Loja_Ecuador,119,0.078168,-76.881025,Nueva Loja,Ecuador
+Shangkan_China,118,21.460934,111.300831,Shangkan,China
+Basrah_Iraq,115,30.453042,47.662448,Basrah,Iraq
+Quanzhou_China,111,25.041498,119.007666,Quanzhou,China
+Sakhalin_Russia,110,52.526799,143.123274,Sakhalin,Russia
+Ceyhan_Turkey,109,36.897212,35.908049,Ceyhan,Turkey
+Levis_Canada,107,46.76591,-71.199365,Levis,Canada
+Edmonton_AB,106,53.561454,-113.343556,Edmonton,AB
+Fos_Sur_Mer_France,106,43.479395,4.907417,Fos Sur Mer,France
+Mutare_Zimbabwe,103,-18.980549,32.531103,Mutare,Zimbabwe
+Changxingdaozhen_China,102,39.5944,121.305,Changxingdaozhen,China
+Batangas_City_Philippines,102,13.789679,121.046848,Batangas City,Philippines
+Seria_Brunei,102,4.611107,114.342164,Seria,Brunei
+Nairobi_Kenya,102,-1.302443,36.874432,Nairobi,Kenya
+Shenjia_Bay_Island_China,98,30.664161,122.003805,Shenjia Bay Island,China
+South_Tianjin_China,98,38.736661,117.550114,South Tianjin,China
+Kingston_Jamaica,97,17.987818,-76.8212,Kingston,Jamaica
+Papar_Malaysia,97,5.636748,115.894164,Papar,Malaysia
+Shunan_Japan,95,34.017975,131.816331,Shunan,Japan
+El_Palito_Venezuela,94,10.477695,-68.099921,El Palito,Venezuela
+Fao_Iraq,93,29.959696,48.43919,Fao,Iraq
+Iwaki_Japan,92,36.929627,140.850584,Iwaki,Japan
+Savannah_GA,92,32.111032,-81.129171,Savannah,GA
+Port_Sudan_Sudan,91,19.391369,37.295011,Port Sudan,Sudan
+Tangshan_China,86,38.983793,118.562834,Tangshan,China
+Port_Moresby_Papua_New_Guinea,86,-9.452336,147.117691,Port Moresby Papua New,Guinea
+Whiddy_Island_Ireland,81,51.685628,-9.519994,Whiddy Island,Ireland
+Gaolan_Island_China,79,21.969934,113.236675,Gaolan Island,China
+Puerto_Sandino_Nicaragua,79,12.179557,-86.749737,Puerto Sandino,Nicaragua
+Shetland_Scotland,78,60.460719,-1.277578,Shetland,Scotland
+Tuscaloosa_AL,78,33.199892,-87.604865,Tuscaloosa,AL
+Eilat_Jordan,78,29.566014,34.909134,Eilat,Jordan
+Kovaya_India,78,20.918306,71.481243,Kovaya,India
+East_Grand_Bahama_The_Bahamas,76,26.62992821,-78.23087454,East Grand Bahama The,Bahamas
+Bajos_de_Haina_Dominican_Republic,75,18.411925,-70.023745,Bajos de Haina Dominican,Republic
+Mouza_Kund_Pakistan,74,24.911724,66.704576,Mouza Kund,Pakistan
+Midland_TX,72,32.010235,-102.025135,Midland,TX
+Bayuquan_China,71,40.345211,122.093988,Bayuquan,China
+Nanjing_China,70,32.283072,119.131344,Nanjing,China
+Ichihara_Japan,67,35.599016,140.13369,Ichihara,Japan
+Cayce_MS,67,34.979643,-89.643725,Cayce,MS
+Iquitos_Peru,67,-3.725158,-73.243519,Iquitos,Peru
+Flotta_Scotland,66,58.837386,-3.120739,Flotta,Scotland
+El_Paso_TX,66,31.769791,-106.396682,El Paso,TX
+Fiumicino_Italy,64,41.855985,12.33318,Fiumicino,Italy
+Sitra_Bahrain,64,26.143903,50.619928,Sitra,Bahrain
+Martinez_CA,63,38.092792,-122.097299,Martinez,CA
+Gdansk_Poland,62,54.414887,18.714577,Gdansk,Poland
+El_Dorado_KS,61,37.804301,-96.8851,El Dorado,KS
+Santa_Maria_CA,60,34.930017,-120.509321,Santa Maria,CA
+North_Salt_Lake_UT,59,40.895987,-111.879682,North Salt Lake,UT
+Longview_TX,59,32.518867,-94.82729,Longview,TX
+Scurry_County_TX,58,32.533203,-100.838372,Scurry County,TX
+Yuzhny_Russia,58,46.630144,31.018999,Yuzhny,Russia
+Menemeni_Greece,57,40.66168,22.875284,Menemeni,Greece
+Rincon_Bonaire,57,12.22486419,-68.38444233,Rincon,Bonaire
+Sao_Francisco_do_Sul_Brazil,57,-26.226933,-48.527709,Sao Francisco do Sul,Brazil
+Antwerp_Belgium,56,51.267021,4.360235,Antwerp,Belgium
+Big_Spring_TX,56,32.275731,-101.41503,Big Spring,TX
+Vicksburg_MS,55,32.369356,-90.889974,Vicksburg,MS
+Basrah_Iraq,54,30.453042,47.662448,Basrah,Iraq
+Omisalj_Croatia,54,45.345314,14.544074,Omisalj,Croatia
+Haditha_Iraq,54,34.073177,42.362623,Haditha,Iraq
+Belle_Chasse_LA,54,29.680668,-89.97482,Belle Chasse,LA
+Roxana_IL,53,38.831567,-90.080488,Roxana,IL
+Mobile_AL,53,30.645922,-88.044184,Mobile,AL
+Abadan_Iran,53,30.355097,48.277377,Abadan,Iran
+Manaus_Brazil,52,-3.126941,-60.006876,Manaus,Brazil
+Coari_Brazil,52,-3.946564,-63.163113,Coari,Brazil
+Puerto_Rosales_Argentina,52,-38.91024,-62.064865,Puerto Rosales,Argentina
+El_Alamein_Egypt,51,30.929831,28.822037,El Alamein,Egypt
+Yorktown_VA,50,37.204536,-76.449808,Yorktown,VA
+Ahmadi_Kuwait,50,29.138804,48.074125,Ahmadi,Kuwait
+Burgas_Bulgaria,49,42.538729,27.306584,Burgas,Bulgaria
+Haldia_India,49,22.055516,88.108943,Haldia,India
+Santa_Monica_Uruguay,49,-34.855555,-54.731293,Santa Monica,Uruguay
+Wynnewood_OK,47,34.630416,-97.168685,Wynnewood,OK
+Villa_Elisa_Paraguay,47,-25.387093,-57.60326,Villa Elisa,Paraguay
+Quintero_Chile,47,-32.773028,-71.491856,Quintero,Chile
+Ardmore_OK,46,34.204304,-97.105704,Ardmore,OK
+Szazhalombatta_Hungary,45,47.299127,18.903806,Szazhalombatta,Hungary
+Portland_OR,45,45.674582,-122.721629,Portland,OR
+Philadelphia_PA,45,39.909191,-75.119152,Philadelphia,PA
+Commerce_City_CO,45,39.792233,-104.961914,Commerce City,CO
+Las_Vegas_NV,45,36.251698,-115.044709,Las Vegas,NV
+Patoka_Il,44,38.788557,-89.074593,Patoka,Il
+Huiyang_China,44,22.768981,114.591213,Huiyang,China
+Osorio_Brazil,44,-29.983298,-50.189688,Osorio,Brazil
+Yeosu_Korea,43,30.56966,47.304018,Yeosu,Korea
+Guamare_Brazil,43,-5.13595,-36.38418,Guamare,Brazil
+Campana_Argentina,43,-34.160986,-58.950065,Campana,Argentina
+Pipestone_Canada,42,49.752733,-101.241272,Pipestone,Canada
+Romeoville_IL,42,41.63699,-88.051658,Romeoville,IL
+Khazar_Azerbaijan,42,40.442114,50.299555,Khazar,Azerbaijan
+Kirkuk_Iraq,42,35.415489,44.215102,Kirkuk,Iraq
+Mazraat_el_Hsainiyeh_Lebanon,42,33.492242,35.354929,Mazraat el Hsainiyeh,Lebanon
+Great_Falls_MT,41,47.521696,-111.29649,Great Falls,MT
+A_Coruna_Spain,41,43.352732,-8.417477,A Coruna,Spain
+Cubatao_Brazil,41,-23.874468,-46.432743,Cubatao,Brazil
+Brandsen_Argentina,40,-35.270666,-58.254295,Brandsen,Argentina
+Korsakov_Russia,39,46.634855,142.91711,Korsakov,Russia
+Tikhoretsk_Russia,39,45.843163,40.196171,Tikhoretsk,Russia
+Diodia_Greece,38,38.052212,23.62157,Diodia,Greece
+Iran_Chabahar,38,25.291,60.615,Iran,Chabahar
+Pinghu_China,37,30.695219,121.269462,Pinghu,China
+Maceio_Brazil,37,-9.666242,-35.719547,Maceio,Brazil
+Sao_Sebastiao_Brazil,37,-23.800689,-45.407661,Sao Sebastiao,Brazil
+Sisak_Croatia,35,45.449842,16.40373,Sisak,Croatia
+Richmond_CA,35,37.940897,-122.399001,Richmond,CA
+Aracaju_Brazil,35,-11.00402,-37.066951,Aracaju,Brazil
+Guararema_Brazil,35,-23.454148,-45.978578,Guararema,Brazil
+Mielnik_Poland,34,52.363703,23.132606,Mielnik,Poland
+Dunkirk_France,34,51.061252,2.35745,Dunkirk,France
+La_Spezia_Italy,34,44.117471,9.879396,La Spezia,Italy
+Texas_City_TX,34,29.374012,-94.918698,Texas City,TX
+Campos_Eliseos_Brazil,34,-22.714354,-43.267478,Campos Eliseos,Brazil
+Odessa_Ukraine,32,46.501769,30.72655,Odessa,Ukraine
+Tarnos_France,32,43.530665,-1.495998,Tarnos,France
+Krotz_Springs_LA,32,30.524591,-91.749376,Krotz Springs,LA
+Sharjah_UAE,32,25.505249,55.506337,Sharjah,UAE
+Navapolatsk_Belarus,31,55.51623,28.559058,Navapolatsk,Belarus
+Jinzhou_China,31,40.820269,121.048683,Jinzhou,China
+Cabiunas_Brazil,31,-22.293106,-41.719494,Cabiunas,Brazil
+Ambes_France,30,45.013597,-0.566131,Ambes,France
+Qinhuangdao_China,30,39.950385,119.711283,Qinhuangdao,China
+Dongjiakou_China,29,35.592652,119.771118,Dongjiakou,China
+Ras_Tanura_repeat,28,26.641,50.157,Ras Tanura,repeat
+Fidalgo_Island_WA,27,48.482135,-122.558368,Fidalgo Island,WA
+Lannach_Austria,27,46.953897,15.345268,Lannach,Austria
+Vado_Ligure_Italy,27,44.326411,8.49567,Vado Ligure,Italy
+Kainan_Wakayama_Japan,27,34.149378,135.190644,Kainan Wakayama,Japan
+Ras_Tanura,25,26.637152,50.157497,Ras,Tanura
+Cremona_Italy,24,45.137735,9.9931,Cremona,Italy
+Gothenburg_Sweden,23,57.701954,11.842259,Gothenburg,Sweden
+Port_Allen_LA,23,30.528103,-91.175164,Port Allen,LA
+Bratislava_Slovakia,22,48.126972,17.181375,Bratislava,Slovakia
+Lacchiarella_Italy,22,45.336446,9.158258,Lacchiarella,Italy
+Beaumont_TX,22,30.063828,-94.069267,Beaumont,TX
+Venlo_Netherlands,21,51.37707,6.199341,Venlo,Netherlands
+Virje_Croatia,21,46.094906,17.01679,Virje,Croatia
+Ellesmere_Port_England,20,53.271427,-2.835887,Ellesmere Port,England
+Burnaby_Canada,19,49.302253,-122.857808,Burnaby,Canada
+Ingolstadt_Germany,19,48.789467,11.474317,Ingolstadt,Germany
+Philadelphia,19,39.910642,-75.199349,Philadelphia,PA
+Helensburgh_Scotland,18,56.11429,-4.833736,Helensburgh,Scotland
+Edinburgh_Scotland,17,56.002537,-3.412722,Edinburgh,Scotland
+Ust_Luga_Russia,16,59.743379,28.443213,Ust Luga,Russia
+Lake_Charles_LA,13,30.315113,-93.164959,Lake Charles,LA
+Palanga_Lithuania,10,55.922386,21.068389,Palanga,Lithuania
+Buenos_Aires,10,-34.649008,-58.349476,Buenos,Aires
+Richmond_California,7,37.942824,-122.353640,Richmond,California
+Grand_Bahama_The_Bahamas,3,26.628377,-78.499793,Grand Bahama,The Bahamas
+Kirkuk_Ceyhan,3,36.897212,35.908049,Kirkuk,Ceyhan
+Iran_Isfahan,3,32.658,51.6478,Iran,Isfahan
+Khark_Island,3,29.24,50.311515,Khark,Island
+Iran_Khark,3,29.228,50.3152,Iran,Khark
+Mangalore_Terminal,3,12.915228,74.812474,Mangalore Terminal,India
+Marsa_al_Brega,2,30.3939,19.6042,Marsa al,Brega
+Iran_Asaluyeh,2,27.535,52.556,Iran,Asaluyeh
+Salt_Lake_UT,1,40.813177,-112.280320,Salt Lake,UT
+Ras_Issa_Offshore_Terminal,1,15.145012,42.60813,Ras Issa Offshore,Terminal
+Bonny,1,4.433,7.167,Bonny,Nigeria
+Singapore,1,1.260756,103.885993,Singapore,Singapore

@@ -1,0 +1,89 @@
+target,images,lat,lon,admin1,admin2
+Tullamarine_VIC_Australia,254,-37.714486,144.879163,Tullamarine VIC,Australia
+Jakarta_Indonesia,242,-6.311999,107.099597,Jakarta,Indonesia
+Villadangos_del_Paramo_Spain,214,42.533957,-5.753913,Villadangos del Paramo,Spain
+Galati_Romania,200,45.444003,28.09091,Galati,Romania
+Xuzhou_Jiangsu_China,163,34.289841,117.24249,Xuzhou Jiangsu,China
+Djibouti_Djibouti,150,11.596812,43.112691,Djibouti,Djibouti
+Antalya_Turkey,148,36.845594,30.600271,Antalya,Turkey
+Urumqi_China,144,43.820579,87.614561,Urumqi,China
+Hirakata_City_Japan,137,34.826891,135.664168,Hirakata City,Japan
+Turku_Finland,137,60.456963,22.127815,Turku,Finland
+Ramos_Arizpe_Mexico,136,25.587894,-100.906115,Ramos Arizpe,Mexico
+Tosno_Russia,136,59.566451,30.82137,Tosno,Russia
+Dingolfing_Germany,135,48.647681,12.467315,Dingolfing,Germany
+Valence_France,125,44.329722,4.732222,Valence,France
+Spartansburg_SC,124,34.898666,-82.174638,Spartansburg,SC
+Brighton_CO,121,40.022787,-104.805985,Brighton,CO
+Monterrey_Mexico,118,25.732901,-100.520987,Monterrey,Mexico
+Baily_Yard_NE,113,41.144279,-100.829398,Baily Yard,NE
+Maharashtra_India,108,18.676335,74.116704,Maharashtra,India
+Plaeng_Yao_Thailand,102,13.602861,101.341754,Plaeng Yao,Thailand
+Rauma_Finland,98,61.124917,21.458913,Rauma,Finland
+Three_Gorges_Dam_China,91,30.828026,110.998605,Three Gorges Dam,China
+La_Hague_France,89,49.678494,-1.879295,La Hague,France
+Memphis_TN,75,34.927791,-89.957781,Memphis,TN
+Windsor_CO,69,40.476499,-104.901721,Windsor,CO
+Siberia_Pipeline_UNKNOWNLOCATION,54,,,Siberia Pipeline,UNKNOWNLOCATION
+Narbonne_France,53,43.214704,2.979904,Narbonne,France
+Pueblo_CO,49,38.271995,-104.625887,Pueblo,CO
+Emden_Germany,45,53.360859,7.193922,Emden,Germany
+Nigeria_Pipeline,26,5.605021,7.450727,Nigeria,Pipeline
+Itajai_Brazil,25,-26.889355,-48.680131,Itajai,Brazil
+Two_Harbors_MN,25,47.021137,-91.680395,Two Harbors,MN
+Paranagua_Brazil,24,-25.51909,-48.526282,Paranagua,Brazil
+Halifax_Canada,23,44.702841,-63.640208,Halifax,Canada
+Providence_RI,22,41.800286,-71.376732,Providence,RI
+Escanaba_MI,21,45.773692,-87.068081,Escanaba,MI
+Superior_WI,21,46.760725,-92.1454,Superior,WI
+Sandusky_OH,20,41.45059,-82.734901,Sandusky,OH
+San_Juan_Puerto_Rico,19,18.440368,-66.096582,San Juan Puerto,Rico
+Altamira_Mexico,18,22.508889,-97.875499,Altamira,Mexico
+Sao_Luis_Brazil,18,-2.573017,-44.354414,Sao Luis,Brazil
+Marcus_Hook_PA,17,39.876884,-75.489623,Marcus Hook,PA
+Limon_Costa_Rica,16,10.019646,-83.022712,Limon Costa,Rica
+Port_Hueneme_CA,15,34.153261,-119.192367,Port Hueneme,CA
+Toledo_OH,15,41.685387,-83.467098,Toledo,OH
+Wilmington_NC,15,34.191956,-77.94477,Wilmington,NC
+Ashtabula_OH,14,41.90211,-80.786381,Ashtabula,OH
+Cleveland_OH,14,41.509769,-81.728155,Cleveland,OH
+Conneaut_OH,14,41.96161,-80.544824,Conneaut,OH
+Brunsbuttel_Germany,13,53.902845,9.173304,Brunsbuttel,Germany
+Kiel_Germany,13,54.33411,10.154502,Kiel,Germany
+Lubeck_Germany,13,53.920399,10.816316,Lubeck,Germany
+Mariel_Cuba,13,22.994859,-82.764041,Mariel,Cuba
+San_Antonio_Chile,13,-33.594451,-71.609459,San Antonio,Chile
+Butterworth_Malaysia,12,5.447318,100.398366,Butterworth,Malaysia
+Galveston_TX,12,29.308232,-94.805335,Galveston,TX
+Kitakyushu_Japan,12,33.920607,130.855462,Kitakyushu,Japan
+Kuwait_City_Kuwait,12,29.348498,47.918471,Kuwait City,Kuwait
+Daesan_South_Korea,11,37.079944,126.518204,Daesan South,Korea
+Pohang_South_Korea,11,36.017175,129.40357,Pohang South,Korea
+Port_Everglades_FL,11,26.070892,-80.14054,Port Everglades,FL
+Beirut_Lebanon,10,33.893708,35.521396,Beirut,Lebanon
+Dampier_Australia,10,-20.580308,116.783942,Dampier,Australia
+Naples_Italy,10,40.841488,14.281126,Naples,Italy
+Pascagoula_MS,9,30.339321,-88.499878,Pascagoula,MS
+Sumgayit_Azerbaijan,9,40.596226,49.613245,Sumgayit,Azerbaijan
+New_Orleans_LA,8,29.941198,-90.047025,New Orleans,LA
+Pakistan_Pipeline_UNKNOWNLOCATION,7,,,Pakistan Pipeline,UNKNOWNLOCATION
+Freeport_TX,6,29.022084,-95.414017,Freeport,TX
+Rail_Terminal_Illinois_UNKNOWNLOCATION,6,,,Rail Terminal Illinois,UNKNOWNLOCATION
+Sui_Northern_Gas_Pakistan,6,31.500944,73.096842,Sui Northern Gas,Pakistan
+Brunswick_GA,4,31.186842,-81.52658,Brunswick,GA
+Power_of_Siberia,4,55.073783,73.686295,Power of,Siberia
+Hanover_Germany,3,52.357235,9.707517,Hanover,Germany
+Marathon_Pipeline_Illinois,3,40.07,-88.39,Marathon Pipeline,Illinois
+Sudan_Pipeline_UNKNOWNLOCATION,3,,,Sudan Pipeline,UNKNOWNLOCATION
+Tennessee_Pipeline_UNKNOWNLOCATION,2,,,Tennessee Pipeline,UNKNOWNLOCATION
+Hannover_Germany,1,52.375536,9.73217,Hannover,Germany
+Houston_and_BP_Pipeline,1,29.720967,-95.065256,Houston and BP,Pipeline
+Hyundai_Delamar_Dry_Lake_Nevada,1,37.318714,-114.948752,Hyundai Delamar Dry Lake,Nevada
+Seibu_Komugi_Japan,1,39.3334,140.996,Seibu Komugi,Japan
+Kashiwazaki_Kariwa_NPP_Japan,1,37.421309,138.595629,Kashiwazaki Kariwa NPP,Japan
+Kelamayi_China,1,45.57412,84.892472,Kelamayi,China
+Mexico_pump_station_UNKNOWNLOCATION,1,,,Mexico pump station,UNKNOWNLOCATION
+Mina_al_Ahmadi_Kuwait,2,29.08461,48.065426,Mina al Ahmadi,Kuwait
+Ooi_NPP_Japan,1,35.540625,135.652033,Ooi NPP,Japan
+Porto_Marghera-Venice_Italy,1,45.462382,12.26665,Porto Marghera-Venice,Italy
+Spartansburg_Factory_UNKNOWNLOCATION,1,,,Spartansburg Factory,UNKNOWNLOCATION

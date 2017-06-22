@@ -1,0 +1,108 @@
+target,images,lat,lon,admin1,admin2
+Suva_Fiji,291,-18.133333,178.442277,Suva,Fiji
+Budapest_Hungary,288,47.494364,19.0652,Budapest,Hungary
+Reykjavik_Iceland,288,64.128706,-21.892216,Reykjavik,Iceland
+Rome_Italy,283,41.891306,12.488866,Rome,Italy
+Yekaterinburg_Russia,245,56.838476,60.605584,Yekaterinburg,Russia
+Chicago_IL,242,41.876336,-87.626824,Chicago,IL
+Omsk_Russia,240,54.983144,73.366573,Omsk,Russia
+Istanbul_Turkey,237,41.008437,28.975669,Istanbul,Turkey
+Moscow_Russia,235,55.755716,37.617263,Moscow,Russia
+Belem_Brazil,223,-1.446902,-48.477614,Belem,Brazil
+Kiev_Ukraine,219,50.452645,30.505766,Kiev,Ukraine
+Warsaw_Poland,216,52.22978,21.011709,Warsaw,Poland
+Havana_Cuba,210,23.173581,-82.329336,Havana,Cuba
+Addis_Ababa_Ethiopia,203,9.029997126,38.70000059,Addis Ababa,Ethiopia
+Sydney_Australia,270,-33.795698,151.209693,Sydney,Australia
+Fortaleza_Brazil,198,-3.743738,-38.529958,Fortaleza,Brazil
+Kabul_Afghanistan,196,34.551569,69.174027,Kabul,Afghanistan
+Recife_Brazil,196,-8.053334,-34.889862,Recife,Brazil
+Toronto_Canada,194,43.652791,-79.379191,Toronto,Canada
+Manaus_Brazil,191,-3.126941,-60.006876,Manaus,Brazil
+Vienna_Austria,190,48.205968,16.373133,Vienna,Austria
+Casablanca_Morocco,189,33.581796,-7.589159,Casablanca,Morocco
+Dublin_Ireland,188,53.3453892,-6.25742197,Dublin,Ireland
+Kinshasa_DRC,188,-4.326348,15.312588,Kinshasa,DRC
+Johannesburg_South Africa,183,-26.20556,28.046963,Johannesburg,South Africa
+Bangui_Central African Republic,180,4.389135,18.550274,Bangui,Central African Republic
+Harare_Zimbabwe,180,-17.846385,31.033449,Harare,Zimbabwe
+Chongqing_China,179,29.798597,106.664989,Chongqing,China
+Bogota_Colombia,174,4.717173,-74.059455,Bogota,Colombia
+Milwaukee_WI,172,43.029252,-87.918156,Milwaukee,WI
+Zurich_Switzerland,165,47.381474,8.525242,Zurich,Switzerland
+Berlin_Germany,163,52.520007,13.404954,Berlin,Germany
+Dhaka_Bangladesh,163,23.805383,90.398595,Dhaka,Bangladesh
+Karachi_Pakistan,167,24.845342,66.989209,Karachi,Pakistan
+Lahore_Pakistan,161,31.554138,74.358386,Lahore,Pakistan
+Khartoum_Sudan,158,15.579367,32.543482,Khartoum,Sudan
+Mexico_City_Mexico,155,19.518793,-99.082671,Mexico City,Mexico
+Hyderabad_India,152,17.380434,78.471484,Hyderabad,India
+Surabaya_Indonesia,150,-7.191716,112.738059,Surabaya,Indonesia
+Stockholm_Sweden,148,59.300921,18.084156,Stockholm,Sweden
+Cape_Town_Africa,146,-33.923145,18.427009,Cape Town,Africa
+Kathmandu_Nepal,142,27.755476,85.352996,Kathmandu,Nepal
+Long_Beach_CA,139,33.761376,-118.191332,Long Beach,CA
+Mumbai_India,137,19.105774,72.862753,Mumbai,India
+Kashgar_China,130,39.57058,76.010247,Kashgar,China
+London_UK,129,51.506742,-0.123627,London,UK
+Juba_Sudan,123,4.858974,31.574176,Juba,Sudan
+San_Francisco_CA,119,37.829548,-122.282406,San Francisco,CA
+Tehran_Iran,117,35.707028,51.425803,Tehran,Iran
+Frankfurt_Germany,115,50.112392,8.683487,Frankfurt,Germany
+Paris_France,113,48.859448,2.339447,Paris,France
+Perth_Australia,157,-31.921994,115.903457,Perth,Australia
+Kuala_Lumpur_Malaysia,108,3.156221,101.708418,Kuala Lumpur,Malaysia
+Adelaide_Airport_Australia,103,-34.946409,138.533013,Adelaide Airport,Australia
+Phoenix_AZ,103,33.248439,-111.734514,Phoenix,AZ
+Kolkata_India,102,22.581197,88.364564,Kolkata,India
+Buenos_Aires_Argentina,100,-34.561466,-58.378503,Buenos Aires,Argentina
+New_Delhi_India,100,28.619287,77.234237,New Delhi,India
+Fort_McMurray_Canada,99,56.75501,-111.498044,Fort McMurray,Canada
+Las_Vegas_NV,98,36.251698,-115.044709,Las Vegas,NV
+Lisbon_Portugal,98,38.721842,-9.139449,Lisbon,Portugal
+Lima_Peru,95,-12.048671,-77.04068,Lima,Peru
+Miami_FL,94,25.776614,-80.165893,Miami,FL
+Munich_Germany,94,48.126565,11.559898,Munich,Germany
+Denver_Colorado,93,39.742691,-104.996488,Denver,Colorado
+St_Louis_MO,88,38.62321,-90.186959,St Louis,MO
+Cincinnati_OH,85,39.098034,-84.51136,Cincinnati,OH
+Algiers_Algeria,84,36.770785,3.054276,Algiers,Algeria
+Bangkok_Thailand,81,13.697423,100.579843,Bangkok,Thailand
+Mountain_View_CA,79,37.413197,-122.081458,Mountain View,CA
+Barcelona_Spain,77,41.385234,2.179632,Barcelona,Spain
+Los_Angeles_CA,72,34.105949,-118.231221,Los Angeles,CA
+Seoul_Korea,70,37.543327,126.989576,Seoul,Korea
+Yangon_Myanmar,70,16.787819,96.150007,Yangon,Myanmar
+Beijing_China,67,39.9375346,115.837023,Beijing,China
+Nakhon_Sawan,64,15.695,100.1228,Nakhon,Sawan
+Amsterdam_Netherlands,60,52.35356,4.88988,Amsterdam,Netherlands
+Athens_Greece,60,37.95051,23.610848,Athens,Greece
+Baton_Rouge,60,30.427376,-91.188976,Baton,Rouge
+Aleppo_Syria,55,36.205983,37.145496,Aleppo,Syria
+Tarawa_Kiribati,55,1.373766,172.900348,Tarawa,Kiribati
+Cairo_Egypt,54,29.976176,31.132249,Cairo,Egypt
+San_Diego_CA,53,32.743137,-117.203601,San Diego,CA
+Tokyo_Japan,53,35.662308,139.914391,Tokyo,Japan
+Singapore_Singapore,52,1.260756,103.885993,Singapore,Singapore
+Shanghai_China,47,31.358233,121.646626,Shanghai,China
+Yarmouk_Syria,44,33.586337,36.399111,Yarmouk,Syria
+New York_United States,31,40.726574,-73.994126,New York,United States
+New_York_United States,25,40.726574,-73.994126,New York,United States
+Taiz_Yemen,20,13.65942583,43.99370183,Taiz,Yemen
+Liaoyang_Liaoning_China,19,41.268062,123.233542,Liaoyang Liaoning,China
+Dallas_TX,13,32.775237,-96.797644,Dallas,TX
+Rotterdam_Netherlands,13,51.971108,3.98242,Rotterdam,Netherlands
+Iquitos_Peru,12,-3.725158,-73.243519,Iquitos,Peru
+Prague_Czech_Republic,8,50.078148,14.442224,Prague Czech,Republic
+Wood_Wharf,6,51.502928,-0.01246,Wood,Wharf
+Jakarata_Indonesia,5,-6.1380046,106.8034494,Jakarata,Indonesia
+Rio_De_Janeiro,5,-22.943409,-43.184291,Rio De,Janeiro
+Auckland_New Zealand,4,-36.858266,174.764205,Auckland,New Zealand
+Willbros_HCA,4,35.278324,-89.734644,Willbros,HCA
+Raleigh_NC,4,35.854322,-78.521675,Raleigh,NC
+Hong_Kong,2,22.28847,114.172541,Hong,Kong
+Illkirch_France,2,48.520916,7.712023,Illkirch,France
+Austin_TX,1,30.51734,-97.71361,Austin,TX
+Boston_MA,1,42.340836,-71.018347,Boston,MA
+Iran_Tehran,1,35.713387,51.180716,Iran,Tehran
+Strasbourg_France,1,48.590646,7.754505,Strasbourg,France

@@ -1,0 +1,35 @@
+target,images,lat,lon,admin1,admin2
+Serris_France,214,48.868719,2.7818,Serris,France
+Kapolei_HI,206,21.320702,-158.09885,Kapolei,HI
+Marinette_WI,204,45.098802,-87.619473,Marinette,WI
+Williamsburg_VA,204,37.235431,-76.643348,Williamsburg,VA
+Montreal_Canada,191,45.53464,-73.520947,Montreal,Canada
+Austell_GA,159,33.769249,-84.549612,Austell,GA
+Allenton_MO,158,38.511209,-90.674339,Allenton,MO
+Raleigh_NC,141,35.854322,-78.521675,Raleigh,NC
+Winnipeg_Canada,138,49.903595,-97.254902,Winnipeg,Canada
+San_Diego_CA,134,32.743137,-117.203601,San Diego,CA
+Tokyo_Japan,129,35.662308,139.914391,Tokyo,Japan
+Tampa_FL,128,28.046622,-82.419252,Tampa,FL
+Reno_NV,114,39.513594,-119.785978,Reno,NV
+San_Antonio_TX,110,29.608383,-98.603845,San Antonio,TX
+Clark_Nevada,91,39.541984,-119.469583,Clark,Nevada
+Corpus_Christi_TX,86,27.887631,-97.270839,Corpus Christi,TX
+Pyeongtaek_South Korea,75,36.977097,126.820459,Pyeongtaek,South Korea
+Anaheim_CA,72,33.805836,-117.892034,Anaheim,CA
+Fremont_CA,66,37.493965,-121.943059,Fremont,CA
+Hong_Kong_China,64,22.361958,114.151884,Hong Kong,China
+Orlando_FL,60,28.473219,-81.425399,Orlando,FL
+Bangalore_India,29,13.070634,77.590215,Bangalore,India
+Shanghai_China,29,31.146456,121.664262,Shanghai,China
+Chonburi_Thailand,22,13.426637,101.012371,Chonburi,Thailand
+Jiamusi_China,15,46.798102,130.319314,Jiamusi,China
+Danesmoor_UK,7,53.16188,-1.399256,Danesmoor,UK
+Gurnee_IL,7,42.370023,-87.935962,Gurnee,IL
+Jackson_NJ,6,40.141011,-74.439221,Jackson,NJ
+Agawam_MA,3,42.036426,-72.617565,Agawam,MA
+Galesburg_IL,3,40.949964,-90.371675,Galesburg,IL
+Waterloo_IA,3,42.492341,-92.342757,Waterloo,IA
+Alliance_NE,2,42.095741,-102.870236,Alliance,NE
+Brea_CA,2,33.91517,-117.88646,Brea,CA
+Milpitas_CA,1,37.407935,-121.879411,Milpitas,CA

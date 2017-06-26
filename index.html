@@ -5,7 +5,7 @@
 g {
   stroke: white;
   stroke-width: 0.3px;
-  fill: rgb(239,239,239); <!-- 239,239,239 -->
+  fill: rgb(239,239,239);
 }
 
 g.cell {
@@ -168,8 +168,8 @@ var pressedColor = "#006266"
 
 var radioMenu = svg.append("rect")
 					.attr("id", "radioRect")
-					.attr("width", "108px")
-					.attr("height", "232px")
+					.attr("width", "107px")
+					.attr("height", "256px")
 					.attr("x", 0)
 					.attr("y", 0)
 					.attr("fill", "rgba(255, 255, 255, 0.7)");
@@ -177,7 +177,7 @@ var radioMenu = svg.append("rect")
 var allButtons = svg.append("g")
 					.attr("id", "toggle");
 
-var labels = ["OIL TANKS", "PORTS", "CITIES", "RETAIL", "SUPPLY CHAIN", "AGRICULTURE", "SOCIAL IMPACT", "BULK/MINES", "INTELLIGENCE"];
+var labels = ["OIL TANKS", "PORTS", "CITIES", "RETAIL", "SUPPLY CHAIN", "AGRICULTURE", "SOCIAL IMPACT", "BULK/MINES", "INTELLIGENCE", "ALL DATA"];
 
 var buttonGroups = allButtons.selectAll("g.button")
 					.data(labels)
@@ -288,6 +288,17 @@ var buttonGroups = allButtons.selectAll("g.button")
 							g8.style('display', 'none')
 							g9.style('display', 'none')
 							g10.style('display', 'none')
+							g11.style('display', 'inline')
+						}
+						else if (d == "ALL DATA") {
+							g3.style('display', 'inline')
+							g4.style('display', 'inline')
+							g5.style('display', 'inline')
+							g6.style('display', 'inline')
+							g7.style('display', 'inline')
+							g8.style('display', 'inline')
+							g9.style('display', 'inline')
+							g10.style('display', 'inline')
 							g11.style('display', 'inline')
 						}
 					})

@@ -60,7 +60,7 @@ button {
 
 #parentDiv {
   position: relative;
-  width: 860px;
+  width: 1200px;
   height: 380px;
   border: 1px solid lightgray;
   background-color: rgb(249,249,249); <!-- rgb(51,51,51); OR #fff; OR rgb(249,249,249) -->
@@ -93,11 +93,11 @@ button {
 </div>
 
 <script>
-var width = 860,
+var width = 1200, // 860
     height = 380;
 
 var projection = d3.geoRobinson()
-    .center([9, -9])
+    .center([-59, -9])
     .scale(170) //280
     .rotate([0,0]);
 
@@ -177,7 +177,7 @@ var radioMenu = svg.append("rect")
 var allButtons = svg.append("g")
 					.attr("id", "toggle");
 
-var labels = ["OIL TANKS", "PORTS", "CITIES", "RETAIL", "SUPPLY CHAIN", "AGRICULTURE", "SOCIAL IMPACT", "BULK/MINES", "INTELLIGENCE", "ALL DATA"];
+var labels = ["OIL TANKS", "PORTS", "CITIES", "RETAIL", "SUPPLY CHAIN", "AGRICULTURE", "SOCIAL IMPACT", "BULK/MINES", "INTELLIGENCE", "FULL ARCHIVE"];
 
 var buttonGroups = allButtons.selectAll("g.button")
 					.data(labels)
@@ -290,7 +290,7 @@ var buttonGroups = allButtons.selectAll("g.button")
 							g10.style('display', 'none')
 							g11.style('display', 'inline')
 						}
-						else if (d == "ALL DATA") {
+						else if (d == "FULL ARCHIVE") {
 							g3.style('display', 'inline')
 							g4.style('display', 'inline')
 							g5.style('display', 'inline')

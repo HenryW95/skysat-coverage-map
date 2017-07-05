@@ -1,2 +1,5 @@
 # skysat-coverage-map
-index.html is the smaller version (860 x 380) and skysat-map-large.html is the large version (1200 x 600).
+
+index.html: 1200px x 380px
+skysat-map-largest: 1200px x 600px
+skysat-map-smallest: 860px x 380px
